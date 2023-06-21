@@ -1,7 +1,7 @@
 # Detecting-Panic-Disorder
 ![ alt text ](https://img.shields.io/badge/license-MIT-green?style=&logo=)
 ![ alt text ](https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white)
-![ alt text ](https://img.shields.io/badge/-sklearn-F7931E?logo=scikitlearn&logoColor=white)
+![ alt text ](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![ alt text ](https://img.shields.io/badge/-pandas-150458?logo=Pandas&logoColor=white)
 ![ alt text ](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
 ![ alt text ](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)
